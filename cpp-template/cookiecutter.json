@@ -1,0 +1,10 @@
+{
+  "project_name": "test",
+  "sources_folder": "src",
+  "include_folder": "include",
+  "cxx_standard": "11",
+  "greeting": "Hello World!",
+  "cmake" : {
+    "minimum_version": 3.12
+  }
+}
