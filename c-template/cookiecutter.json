@@ -1,0 +1,9 @@
+{
+    "project_name": "hello-world",
+    "sources_folder": "src",
+    "include_folder": "include",
+    "greeting": "Hello World!",
+    "cmake": {
+        "minimum_version": 3.12
+    }
+}
